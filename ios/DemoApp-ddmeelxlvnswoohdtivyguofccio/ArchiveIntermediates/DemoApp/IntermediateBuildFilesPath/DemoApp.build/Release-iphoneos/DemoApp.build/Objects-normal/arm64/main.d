@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/DemoApp/main.m \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/DemoApp/AppDelegate.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-RCTAppDelegate/RCTAppDelegate.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-RCTAppDelegate/RCTRootViewFactory.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-Core/React/RCTJSThread.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/RCTDeprecation/RCTDeprecation.modulemap \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/RCTDeprecation/RCTDeprecation-umbrella.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/RCTDeprecation/RCTDeprecation.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-Core/React/RCTBundleManager.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModuleDecorator.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-Core/React/RCTBridgeConstants.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-Core/React/RCTConstants.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcherProtocol.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-Core/React/RCTBridgeProxy.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/infyappdevelopment/Documents/DemoApp/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h

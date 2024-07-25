@@ -1,0 +1,81 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bbfd0e71e2497ce1c44b78827f42c0a57ceb6b36bcfc2fb90f69ac96de4975d6"
+    }
+  ],
+  "containerPath" : "/Users/infyappdevelopment/Documents/DemoApp/ios/DemoApp.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "install",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos17.5",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/infyappdevelopment/Documents/DemoApp/ios",
+      "indexDataStoreFolderPath" : "/Users/infyappdevelopment/Documents/DemoApp/ios/DemoApp-ddmeelxlvnswoohdtivyguofccio/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/infyappdevelopment/Documents/DemoApp/ios/DemoApp-ddmeelxlvnswoohdtivyguofccio/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "install",
+          "ASSET_PACK_FOLDER_PATH" : "/Users/infyappdevelopment/Documents/DemoApp/ios/DemoApp-ddmeelxlvnswoohdtivyguofccio/ArchiveIntermediates/DemoApp/InstallationBuildProductsLocation/OnDemandResources",
+          "ASSETCATALOG_COMPILER_FLATTENED_APP_ICON_PATH" : "/Users/infyappdevelopment/Documents/DemoApp/ios/DemoApp-ddmeelxlvnswoohdtivyguofccio/ArchiveIntermediates/DemoApp/BuildProductsPath/ProductIcon.png",
+          "BITCODE_GENERATION_MODE" : "bitcode",
+          "DEPLOYMENT_LOCATION" : "YES",
+          "DEPLOYMENT_POSTPROCESSING" : "YES",
+          "DSTROOT" : "/Users/infyappdevelopment/Documents/DemoApp/ios/DemoApp-ddmeelxlvnswoohdtivyguofccio/ArchiveIntermediates/DemoApp/InstallationBuildProductsLocation",
+          "EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE" : "NO",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_SIGNATURE_AGGREGATION" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "INDEX_ENABLE_DATA_STORE" : "NO",
+          "MESSAGES_APPLICATION_EXTENSION_SUPPORT_FOLDER_PATH" : "/Users/infyappdevelopment/Documents/DemoApp/ios/DemoApp-ddmeelxlvnswoohdtivyguofccio/ArchiveIntermediates/DemoApp/BuildProductsPath/MessagesApplicationExtensionSupport",
+          "MESSAGES_APPLICATION_SUPPORT_FOLDER_PATH" : "/Users/infyappdevelopment/Documents/DemoApp/ios/DemoApp-ddmeelxlvnswoohdtivyguofccio/ArchiveIntermediates/DemoApp/BuildProductsPath/MessagesApplicationSupport",
+          "OBJROOT" : "/Users/infyappdevelopment/Documents/DemoApp/ios/DemoApp-ddmeelxlvnswoohdtivyguofccio/ArchiveIntermediates/DemoApp/IntermediateBuildFilesPath",
+          "SHARED_PRECOMPS_DIR" : "/Users/infyappdevelopment/Documents/DemoApp/ios/DemoApp-ddmeelxlvnswoohdtivyguofccio/ArchiveIntermediates/DemoApp/PrecompiledHeaders",
+          "SIGNATURE_METADATA_FOLDER_PATH" : "/Users/infyappdevelopment/Documents/DemoApp/ios/DemoApp-ddmeelxlvnswoohdtivyguofccio/ArchiveIntermediates/DemoApp/BuildProductsPath/Signatures",
+          "SWIFT_STDLIB_TOOL_UNSIGNED_DESTINATION_DIR" : "/Users/infyappdevelopment/Documents/DemoApp/ios/DemoApp-ddmeelxlvnswoohdtivyguofccio/ArchiveIntermediates/DemoApp/BuildProductsPath/SwiftSupport",
+          "SYMROOT" : "/Users/infyappdevelopment/Documents/DemoApp/ios/DemoApp-ddmeelxlvnswoohdtivyguofccio/ArchiveIntermediates/DemoApp/BuildProductsPath",
+          "WATCHKIT_2_SUPPORT_FOLDER_PATH" : "/Users/infyappdevelopment/Documents/DemoApp/ios/DemoApp-ddmeelxlvnswoohdtivyguofccio/ArchiveIntermediates/DemoApp/BuildProductsPath/WatchKitSupport2"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "archive",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
